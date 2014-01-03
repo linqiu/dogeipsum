@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["theonlylinqiu@gmail.com"]
   spec.description   = %q{ wow such generate! }
   spec.summary       = %q{ many ipsum! such generate! }
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/linqiu/dogeipsum"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
